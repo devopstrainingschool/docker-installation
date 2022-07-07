@@ -24,7 +24,7 @@ sudo yum-config-manager \
 ```
 ## Install docker engine
 ```
-sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+sudo yum install docker-ce docker-ce-cli containerd.io docker-compose-plugin -y
 ```
 ## Start and enable docker
 ```
