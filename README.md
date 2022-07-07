@@ -37,3 +37,7 @@ sudo systemctl enable docker
 ```
 sudo systemctl status docker
 ```
+
+
+
+![image](https://user-images.githubusercontent.com/107158398/177837463-62620ce4-e786-4b47-8447-236f99d8a0bd.png)
